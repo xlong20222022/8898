@@ -4,3 +4,5 @@ wget -q -O /home/minima/minima.jar https://github.com/minima-global/Minima/raw/m
 exit
 sudo systemctl start minima_9001
 sudo systemctl status minima_9001 -n50
+sudo system start mina
+sudo system stop
